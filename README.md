@@ -13,6 +13,8 @@ A continuación algunas de las tecnologías utilizadas en dicha actividad:
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=openjdk&logoColor=white&labelColor=red)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=%234B8BE)
+![Jinja](https://img.shields.io/badge/-Jinja-white?style=flat-square&logo=jinja&logoColor=%23B41717)
+![Mariadb](https://img.shields.io/badge/-Mariadb-%23003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
