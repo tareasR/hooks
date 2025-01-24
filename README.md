@@ -22,4 +22,5 @@ A continuación algunas de las tecnologías utilizadas en dicha actividad:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23f0db4f&color=%23f0db4f)
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tareasr&show_icons=true&theme=gotham" alt="tareasr" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareasr&langs_count=8" />
